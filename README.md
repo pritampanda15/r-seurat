@@ -15,5 +15,5 @@ install.packages("RPresto", repos = "https://conda-forge.org/r")
 
 # Install Bioconductor packages
 BiocManager::install(c("celldex", "SingleR", "SingleCellExperiment", 
-                       "GLMGampoi", "scran"))
+                       "glmGamPoi", "scran"))
 ```
